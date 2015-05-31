@@ -1,0 +1,15 @@
+{
+  "name": "inflector",
+  "version": "1.0.0",
+  "description": "Inflector for node and the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inflector",
+    "javascript"
+  ],
+  "author": "KZO",
+  "license": "MIT"
+}
